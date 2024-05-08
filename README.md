@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    </tr>
   </table>
 
-### Моя специализация
+## Моя специализация
 - ### Java :hotsprings:
     - Backend testing (API, databases)
     - UI testing (manual and autotesting)
