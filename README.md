@@ -1,4 +1,4 @@
-### Привет! :cherry_blossom:
+## Привет! :cherry_blossom:
 ## Меня зовут Екатерина, я - QA Engineer. В профессии с 2020 года.</br>
 <!--
 **EkaterinaZotova/EkaterinaZotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
