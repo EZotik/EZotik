@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <table width="100%" border='0'>
    <tr> 
     <td width="20%" valign="bottom"><img src="/media/images/TSU80.png"></td><td valign="middle">Ульяновский государственный технический университет.</br>Энергетический факультет</br></td></tr>
+<td width="20%" valign="bottom"><img src="/media/images/Skillbox.png"></td><td valign="middle">Профессия тестировщик.</br>Тестирование web-приложений</br></td></tr>
     <tr><td width="30%" valign="bottom"><img src="/media/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
