@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     <tr><td width="30%" valign="bottom"><img src="/media/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
-  </br>
 
 ### Моя специализация
 - ### Java :hotsprings:
